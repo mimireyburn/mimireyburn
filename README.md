@@ -1,4 +1,4 @@
-### 👩🏻‍💻 Hey! I'm Mimi. 
+### 👋 Hey! I'm Mimi. 👩🏻‍💻
 
 [Email](mailto:mimireyburn@gmail.com?subject=Hello!) | [LinkedIn](https://www.linkedin.com/in/mimireyburn/)
 
