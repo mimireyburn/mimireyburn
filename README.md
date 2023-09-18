@@ -1,6 +1,6 @@
-### 👋 Hi! I'm Mimi.
+### 👩🏻‍💻 Hey! I'm Mimi. 
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/mimireyburn/)
+[Email](mailto:mimireyburn@gmail.com?subject=Hello!) | [LinkedIn](https://www.linkedin.com/in/mimireyburn/)
 
 <!--
 **mimireyburn/mimireyburn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
