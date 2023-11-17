@@ -1,6 +1,6 @@
 ### 👋 Hey! I'm Mimi. 
 
-[Email](mailto:mimireyburn@gmail.com?subject=Hello!) | [LinkedIn](https://www.linkedin.com/in/mimireyburn/)
+[Website](https://www.mimireyburn.com/) | [Email](mailto:mimireyburn@gmail.com?subject=Hello!) | [LinkedIn](https://www.linkedin.com/in/mimireyburn/)
 
 <!--
 **mimireyburn/mimireyburn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
