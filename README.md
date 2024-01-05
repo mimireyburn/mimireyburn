@@ -4,7 +4,7 @@ I'm looking for a new role in Applied ML - [contact me](mailto:mimireyburn@gmail
 
 At the same time, I'm working on some personal ML projects: 
 
-- A [local recommendation engine](https://github.com/mimireyburn/Anchor) for articles and webpages with [Louis](https://github.com/lhorrell99).
+- A local [recommendation engine](https://github.com/mimireyburn/Anchor) for articles and webpages with [Louis](https://github.com/lhorrell99).
 - Creating [v2.0 of my Master's Project](https://github.com/myPocketKitchen/PK2.0) - a computer vision fridge to help reduce household food waste.
 - A statistical investigation into where bias emerges in Stable Diffusion (public repo coming soon...) with [Amber](https://github.com/amberrignell).
 
