@@ -2,6 +2,8 @@
 
 I'm looking for a new role in Applied ML - [contact me](mailto:mimireyburn@gmail.com) if you have any ideas for my next challenge!
 
+Check out my [Obsidian notes on my projects](https://publish.obsidian.md/mimi/)!
+
 At the same time, I'm working on some personal ML projects: 
 
 - A local [recommendation engine](https://github.com/mimireyburn/Anchor) for articles and webpages with [Louis](https://github.com/lhorrell99).
