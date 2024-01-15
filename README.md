@@ -12,7 +12,7 @@ At the same time, I'm working on some personal ML projects:
 
 Other projects are also documented here, including [Q-Learning](https://github.com/mimireyburn/MancalaBot) on the board game, Mancala, and an [LLM Weather](https://github.com/mimireyburn/LLMyWeather) widget. Take a look around -> 
 
-Stalk me: [Website](https://www.notes.mimireyburn.com/) | [LinkedIn](https://www.linkedin.com/in/mimireyburn/) | [Twitter](https://twitter.com/mireyburn)  or  [Get in touch->](mailto:mimireyburn@gmail.com?subject=Hello!) 
+Stalk me: [Website](notes.mimireyburn.com/) | [LinkedIn](https://www.linkedin.com/in/mimireyburn/) | [Twitter](https://twitter.com/mireyburn)  or  [Get in touch->](mailto:mimireyburn@gmail.com?subject=Hello!) 
 
 <!--
 **mimireyburn/mimireyburn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
