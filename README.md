@@ -1,4 +1,4 @@
-### Hey! I'm Mimi. 
+### 👋 Hey! I'm Mimi. 
 
 I'm looking for a new role in Applied ML - [contact me](mailto:mimireyburn@gmail.com) if you have any ideas for my next challenge!
 
