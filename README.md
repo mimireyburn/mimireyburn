@@ -2,7 +2,7 @@
 
 Stalk my [website ->](https://publish.obsidian.md/mimi/)
 
-Find me on: [LinkedIn](https://www.linkedin.com/in/mimireyburn/) | [Twitter](https://twitter.com/mireyburn)  or  [Get in touch->](mailto:mimireyburn@gmail.com?subject=Hello!) 
+Find me on: [LinkedIn](https://www.linkedin.com/in/mimireyburn/) | [Twitter](https://twitter.com/mireyburn)  or  [Get in touch->](mailto:hello@mimireyburn.com?subject=Hello!) 
 
 <!--
 **mimireyburn/mimireyburn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
