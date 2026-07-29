@@ -1,6 +1,6 @@
 ### 👋 Hey! I'm Mimi. 
 
-Stalk my [website ->](https://mimireyburn.co,/)
+Stalk my [website ->](https://mimireyburn.com/)
 
 <a href="https://buymeacoffee.com/mimireyburn"><img width="175" alt="buy me a coffee" src="https://github.com/user-attachments/assets/4872633e-ae0d-4d1f-bd80-191720e4d273" /></a>
 
